@@ -5,6 +5,3 @@ function addProperty(obj, key) {
 
 }
 
-var myObj = {};
-addProperty(myObj, 'myProperty');
-console.log(myObj.myProperty); // --> true
